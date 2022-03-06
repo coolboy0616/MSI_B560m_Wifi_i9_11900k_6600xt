@@ -20,8 +20,9 @@ EFI地址：https://github.com/luoxh8/MSI_B560m_Wifi_i9_11900k_6600xt
 - 待机睡眠后，PC的灯光自动关闭。唤醒后自动Wi-Fi连接。
 - 声卡正常驱动
 - USB2.0/USB3.0 正常使用，可以识别键盘，鼠标
+- OC可以引导Windows10
 
-
+**注：理论支持OTA，但是请 更新/备份 EFI**
 
 问题列表：
 
