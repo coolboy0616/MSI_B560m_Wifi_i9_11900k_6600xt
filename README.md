@@ -35,12 +35,12 @@ EFI地址：https://github.com/luoxh8/MSI_B560m_Wifi_i9_11900k_6600xt
 
 截图部分：
 
-![image-20220306182329544](/Users/luoxh/Library/Application Support/typora-user-images/image-20220306182329544.png)
+![image-20220306182329544](./imgs/image-20220306182329544.png)
 
-![image-20220306182341357](/Users/luoxh/Library/Application Support/typora-user-images/image-20220306182341357.png)
+![image-20220306182341357](./imgs/image-20220306182341357.png)
 
-![image-20220306182401125](/Users/luoxh/Library/Application Support/typora-user-images/image-20220306182401125.png)
+![image-20220306182401125](./imgs/image-20220306182401125.png)
 
-![image-20220306182530628](/Users/luoxh/Library/Application Support/typora-user-images/image-20220306182530628.png)
+![image-20220306182530628](./imgs/image-20220306182530628.png)
 
-![IMG_3257](/Users/luoxh/Desktop/IMG_3257.PNG)
+![IMG_3257](./imgs/IMG_3257.png)
