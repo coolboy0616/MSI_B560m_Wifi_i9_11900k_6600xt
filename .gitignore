@@ -1,3 +1,5 @@
 .idea
 push.sh
 ignore.sh
+.DS_Store
+
